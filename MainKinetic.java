@@ -6,7 +6,8 @@ package w04_encapsulation;
 
 /**
  *
- * @author asus
+ * @author boby
+
  */
 public class MainKinetic {
     double massa, kecepatan;
